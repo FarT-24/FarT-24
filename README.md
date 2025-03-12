@@ -8,6 +8,7 @@
 - 🤝🏻 I’m looking to collaborate on coding
 
 ## How to reach me :
+<script src="https://kit.fontawesome.com/3304c01429.js" crossorigin="anonymous"></script>
 <p align="center">
 <!-- <a href="https://x.com/frstn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frstn_" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/far.is.a_?igsh=bwp2amh6m2wydwh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/far.is.a_?igsh=bwp2amh6m2wydwh5" height="30" width="40" /></a>
