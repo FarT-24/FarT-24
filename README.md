@@ -9,7 +9,7 @@
 
 ## How to reach me :
 <p align="center">
-  <a href="https://wa.me/628514240632" target="_blank">
+  <a href="https://wa.me/6289514240632" target="_blank">
     <img src="https://github.com/user-attachments/assets/38a20990-f535-48e8-9d7e-8870bab3c878" width="40" height="40" alt="WhatsApp" />
   </a>
   <a href="https://www.instagram.com/far.is.a_?igsh=bwp2amh6m2wydwh5" target="_blank">
