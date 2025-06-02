@@ -8,28 +8,20 @@
 - 🤝🏻 I’m looking to collaborate on coding  
 
 ## How to reach me :
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <p align="center">
-  <a href="https://x.com/frstn_" target="_blank">
-    <i class="fa-brands fa-x-twitter fa-3x" style="color: #ffffff;"></i>
+  <a href="https://wa.me/628514240632" target="_blank">
+    <img src="https://github.com/user-attachments/assets/38a20990-f535-48e8-9d7e-8870bab3c878" width="40" height="40" alt="WhatsApp" />
   </a>
   <a href="https://www.instagram.com/far.is.a_?igsh=bwp2amh6m2wydwh5" target="_blank">
-    <i class="fa-brands fa-instagram fa-3x"></i>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/frstn_" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/light/twitter-x.svg" width="40" height="40" alt="X/Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/farisa-tunnadhiroh-536799309" target="_blank">
-    <i class="fa-brands fa-linkedin fa-3x" style="color: #0077b5;"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
-<style>
-  .fa-brands.fa-instagram {
-  color: transparent;
-  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  }
-</style>
 
 ## Tech Stack :
 
